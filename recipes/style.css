@@ -1,9 +1,9 @@
 body {
-  background-color: #e9c46a;
+  background-color: #f4a261;
 }
-
 h1 {
   font-family: 'Zen Old Mincho', sans-serif;
+  color: #264653;
 }
 
 img {
@@ -12,9 +12,14 @@ img {
 }
 
 h2,
+h3,
 p,
 li {
   color: #001219;
   font-family: 'Zen Kaku Gothic Antique', sans-serif;
   font-size: 16px;
+}
+
+.description {
+  font-size: 25px;
 }
