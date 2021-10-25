@@ -7,3 +7,4 @@ a main index page which will have links to a few recipes. The recipes are gonna 
   <li>Anchor elements</li>
   <li>Image elements</li>
   <li>Directories Structures</li>
+  <li>Basic CSS styling (fonts, colors, images)</li>
