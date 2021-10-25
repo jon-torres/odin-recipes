@@ -23,3 +23,7 @@ li {
 .description {
   font-size: 25px;
 }
+
+a {
+  text-decoration: none;
+}
