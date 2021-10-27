@@ -1,6 +1,6 @@
 <h1>Recipes website</h1>
 <p>Hello Jon from the future! This is your first web project!</p>
-<p>In this project we are going to builg a website site consisting of
+<p>In this project we are going to build a website site consisting of
 a main index page which will have links to a few recipes. The recipes are gonna be structured in separate html files.</p>
 <p>These are the skills covered in this project so far:</p>
 <ul>
